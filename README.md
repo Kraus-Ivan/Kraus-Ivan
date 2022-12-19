@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on something surely<br>⚡ I’m currently learning C# and some front-end stuff
+🔭 I’m currently working on something surely<br>⚡Learning C# and some front-end stuff
 
 
 ## 🌐 Socials:
